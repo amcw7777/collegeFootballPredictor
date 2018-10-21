@@ -1,5 +1,8 @@
 # collegeFootballPredictor
 
+### Result:
+![](importance.png)
+
 | RANKING | TEAM                   | MVA SCORE |
 |---------|------------------------|-----------|
 | 1       | alabama                | 0.8262    |
@@ -132,5 +135,3 @@
 | 128     | texas-el-paso          | 0.2425    |
 | 129     | kansas                 | 0.2404    |
 | 130     | san-jose-state         | 0.1539    |
-### Result:
-![](importance.png)
